@@ -22,7 +22,6 @@ namespace MyThirdHomeWork
             Console.WriteLine("SMS sent");
         }
 
-
     }
 }
 
